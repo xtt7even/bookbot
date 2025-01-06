@@ -1,10 +1,6 @@
 # Bookbot Project  
 
-This is the **Bookbot** project, part of the back-end development course from [Boot.dev](https://boot.dev).  
+The **Bookbot** project, part of the back-end development course from [Boot.dev](https://boot.dev).  
+This project is for practicing beginner Python skills.
 
-## Getting Started  
-
-1. Clone the repository:  
-   ```bash  
-   git clone <repository-url>  
-   cd bookbot  
+The project reads the text from a book file, counts the number of words, and counts the occurrences of each character in the text. It then generates a report displaying these counts. 
